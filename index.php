@@ -11,10 +11,10 @@
     
         <div class="log-form">
         <!-- formulario de inicio de sesión -->
-        <h2>Login to your account</h2>
+        <h2>Inicia sesión</h2>
         <form>
-        <input type="text" title="username" placeholder="username" />
-        <input type="password" title="password" placeholder="password" />
+        <input type="text" title="username" placeholder="usuario" />
+        <input type="password" title="password" placeholder="contraseña" />
         <button type="submit" class="btn">Login</button>
         <a class="forgot" href="#">No tienes una cuenta? Crear una</a>
         </form>
