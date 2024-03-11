@@ -16,7 +16,7 @@
         <input type="text" title="username" placeholder="username" />
         <input type="password" title="password" placeholder="password" />
         <button type="submit" class="btn">Login</button>
-        <a class="forgot" href="#">Forgot Username?</a>
+        <a class="forgot" href="#">No tienes una cuenta? Crear una</a>
         </form>
     </div>
     
