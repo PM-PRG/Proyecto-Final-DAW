@@ -16,7 +16,7 @@
         <input type="text" title="username" placeholder="usuario" />
         <input type="password" title="password" placeholder="contraseña" />
         <button type="submit" class="btn">Login</button>
-        <a class="forgot" href="#">No tienes una cuenta? Crear una</a>
+        <a class="forgot" href="registro.php">No tienes una cuenta? Crear una</a>
         </form>
     </div>
     
